@@ -1,2 +1,1 @@
-# Karnw.github.io
-website
+Karnw.github.io
